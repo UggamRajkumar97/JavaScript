@@ -6,7 +6,8 @@ if(a>b){
     max=a
     min=b
 }else{
-    max=bmin=a
+    max=b
+    min=a
 }
 if(c>max){ max=c}
 if(c<min){ min=c}
